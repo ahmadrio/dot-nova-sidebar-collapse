@@ -7,7 +7,7 @@ I'm create from laravel-Nova v2 and this support Laravel Nova v2++
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer install opanegro/dot-nova-sidebar-collapse
+composer require opanegro/dot-nova-sidebar-collapse
 ```
 
 To publish the views nova override navigation and config file run:
